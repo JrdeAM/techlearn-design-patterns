@@ -1,0 +1,15 @@
+# Arquivos compilados
+*.class
+bin/
+out/
+
+# Configuracoes do VS Code
+.vscode/
+
+# Backups de repositorios Git
+.git-backup/
+**/.git-backup/
+
+# Arquivos temporarios
+*.log
+*.tmp
